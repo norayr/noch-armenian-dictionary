@@ -13,7 +13,7 @@ version				վարկած
 smartphone			խելախօս (խելախոս)
 layout				շարուածք (շարվածք)
 keyboard layout		շարուածք (շարվածք)
-computer			կարգիչ
+computer			կարգիչ, համակարգիչ, բանակարգիչ
 brute-force search	յատարկում
 bold				թաւատառ (թավատառ)
 italic				շեղատառ
@@ -35,7 +35,7 @@ action					գործողութիւն
 adjustment				կարգաւորում
 align					հաւասարեցնել
 markdown				նշաձեւ
-browser					զննիչ
+browser					զննիչ, ցանցախոյզ
 message					հաղորդագրութիւն
 discussion thread		քննարկաշար
 domain					տիրոյթ
@@ -48,10 +48,43 @@ intranet				ներցանց
 LAN						տեղային ցանց
 Local Area Network						տեղային ցանց
 mail server				իմակաբաշխիչ, էլ֊փոստի սպասարկիչ
-server					սպասարկիչ
+server					սպասարկիչ, բաշխիչ
 muffler					խլացուցիչ
 battery					մարտկոց
 mailing agent			ուղերձագործակալ, իմակավար
 mailing list			նամականի, իմականի
 navigator				նաւորդ
-
+newsgroup				տեղեկատվախումբ, վիճախումբ, բանախումբ, լրատուն
+search engine			որոնիչ
+reader					ընթերցիչ
+e-ink reader			ընթերցիչ
+site					կայք, հանգրուան, հանգոյց, տեղամաս
+website					կայք, հանգրուան, հանգոյց, տեղամաս
+WAN						ընդլայնուած ցանց
+web						ցանց, վէպ, ոստայն, համավէպ
+web server				ցանցաբաշխիչ, կայքաբաշխիչ
+webmaster				կայքավար, վիպասան
+webpage					կայքէջ, վիպէջ
+WWW						ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ) 
+World Wide Web			ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ) 
+gateway					անցախուց
+hardware				սարքաշար, կարծրամաս
+key						ստեղն
+keyboard				ստեղնաշար
+board					տպասալ
+PCB						տպասալ
+Printed circuit board	տպասալ
+microcomputer			մանրակարգիչ
+microprocessor			մանրավարիչ
+modem					միացուցիչ
+mouse					մկնիկ
+mouse pad				մկնակալ
+platform				հարթակ
+plotter					գծիչ
+port					կցատեղ
+printer					տպիչ
+processor				հոլովույթ
+scanner					տեսածրիչ, ծրիչ, դիտակ, տեսածիր
+terminal				վերջակայան, եզրակայան, եզրույթ
+workstation				աշխատակայան
+software				ծրագրաշար, ծրագրային ապահովում

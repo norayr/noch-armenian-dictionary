@@ -46,6 +46,12 @@ keyboard layout
 կարգիչ
 computer
 
+համակարգիչ
+computer
+
+բանակարգիչ
+computer
+
 յատարկում|հատարկում
 brute-force search
 
@@ -97,6 +103,12 @@ align
 նշաձեւ
 markdown
 
+զննիչ
+browser
+
+ցանցախոյզ
+browser
+
 քննարկաշար
 discussion thread
 
@@ -139,6 +151,9 @@ mail server
 սպասարկիչ
 server
 
+բաշխիչ
+server
+
 խլացուցիչ
 muffler, suppressor
 
@@ -159,5 +174,128 @@ mailing list
 
 նաւորդ|նավորդ
 navigator
+
+տեղեկատվախումբ
+newsgroup
+
+վիճախումբ
+newsgroup
+
+բանախումբ
+newsgroup
+
+լրատուն
+newsgroup
+
+որոնիչ
+search engine
+
+ընթերցիչ
+e-ink reader
+
+կայք
+site, website
+
+վէպ|վեպ
+web
+
+ոստայն
+web
+
+համավէպ
+web
+
+ցանցաբաշխիչ
+web server
+
+կայքաբաշխիչ
+web server
+
+կայքավար
+webmaster
+
+վիպասան
+webmaster
+
+կայքէջ
+webpage
+
+վիպէջ
+webpage
+
+անցախուց
+gateway
+
+սարքաշար
+hardware
+
+կարծրամաս
+hardware
+
+ստեղն
+key
+
+ստեղնաշար
+keyboard
+
+տպասալ
+board, PCB, Printed circuit board
+
+մանրակարգիչ
+microcomputer
+
+մանրավարիչ
+microprocessor
+
+միացուցիչ
+modem
+
+մկնիկ
+mouse
+
+մկնակալ
+mouse pad
+
+հարթակ
+platform
+
+գծիչ
+plotter
+
+կցատեղ
+port
+
+տպիչ
+printer
+
+հոլովոյթ|հոլովույթ
+processor
+
+տեսածրիչ
+scanner
+
+ծրիչ
+scanner
+
+տեսածիր
+scanner
+
+վերջակայան
+terminal
+
+եզրակայան
+terminal
+
+եզրոյթ|եզրույթ
+terminal
+
+աշխատակայան
+workstation
+
+ծրագրաշար
+software
+
+ծրագրային ապահովում
+software
 
 
