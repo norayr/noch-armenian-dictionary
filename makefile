@@ -2,4 +2,10 @@
 
 all:
 	stardict_tabfile noch_en-hy.tab
-	stardict_tabfile noch_hy-en.tab
+	stardict_babylon noch_hy-en.babylon
+
+clean:
+		rm *.dict
+		rm *.idx
+		rm *.ifo
+		rm *.syn
