@@ -11,7 +11,7 @@ sustainable			կենսակայուն
 concept				յղանցք (հղանցք սովետական ուղղագրութեամբ)
 version				վարկած
 smartphone			խելախօս (խելախոս)
-layout				շարուածք (շարվածք)
+layout				շարուածք (շարվածք), շարակարգ
 keyboard layout		շարուածք (շարվածք)
 computer			կարգիչ, համակարգիչ, բանակարգիչ
 brute-force search	յատարկում
@@ -119,7 +119,7 @@ footer					էջատակ
 forward					վերառաքում
 header					էջագլուխ
 header file				բովանդակային նիշք
-highlight				լուսաշեշտել
+highlight				լուսաշեշտել, լուսանշել, գունանշել
 select					նշել
 home					սկիզբ
 icon					պատկերակ
@@ -156,7 +156,7 @@ setup					լարք
 spread sheet			ցուցակարգիչ
 status					կարգավիճակ
 subject					նիւթ, առարկա, թեմա
-tab						ցուցակաստեղ
+tab						ներդիր, սիւնատ, ցուցակաստեղ
 tool					գործիք
 tools					գործիքներ
 virtual					կարծական
@@ -179,9 +179,59 @@ term					եզր
 to click				կտացնել, սեղմել, չխկել, թխկել, կտիկ
 touch					հպել
 touchscreen				հպէկրան
-marker					նշորդ
-cursor					նշորդ
+marker					նշիչ, նշորդ
+cursor					նշիչ, նշորդ
 cut						կտրել, հատել
 desktop					աշխատասեղան, սեղանակ
 display					ցուցադրիչ
 mobile					դիւրակիր
+gradient				սահանցում
+flip book				սահատետր
+drop-down				իջնորդ
+homepage				տնէջ
+paste					փակցնել
+input					ներմուծել
+insert					զետեղել
+interactive				փոխազդու
+jump cut				ցատկանց, ցատկանցու
+keyframe				հիմնակադր
+match cut				սազանցում
+multiplayer				բազմախաղորդ
+option					ընտրանք, նախընտրութիւն
+output					արտածում
+pacman					համփիկ
+jabberwocky				փրչրթան
+pan out					հետագնայ
+panel					վահանակ
+рop-down				վարիջակ
+рop-up					վերելուկ
+kite					օդապարուկ, թռուցիկ (հին)
+portable				տեղափոխելի
+retargetable			վերաթիրախաւորուող
+preference				նախընտրանք
+preferences				նախընտրութիւններ
+powerups				ուժաճ
+preset					նախակայում
+рrojector				արտապատկերիչ
+quick reader			արագընթերց
+redo					վերարկել
+render					նիւթաւորել
+right click				աջկտտացնել
+router					երթուղիչ
+raw cut					կոշտ հատում
+scale					սանդղակ, չափափոխել
+scroll					գլիկ
+selfmotivated			ինքնամղուած
+set						բազմութիւն, կազմ
+setting					կարգաւորում, կայանք
+settings				կարգաւորումներ
+shortcut				կարճատ
+snapshot				ճեպապատկեր
+sound effect			ձայնային ազդանք
+spacebar				բացատ
+space					բացատ
+sprite					հարթուկ
+storytelling			պատմասութիւն
+synopsis				համառոտագիր
+bookmark				էջանիշ, էջանշել
+

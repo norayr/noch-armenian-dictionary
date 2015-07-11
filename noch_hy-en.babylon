@@ -41,7 +41,10 @@ version
 smartphone
 
 շարուածք|շարվածք
-keyboard layout
+keyboard layout, layout
+
+շարակարգ
+layout
 
 կարգիչ
 computer
@@ -424,6 +427,12 @@ header file
 լուսաշեշտել
 highlight
 
+գունանշել
+highlight
+
+լուսանշել
+highlight
+
 նշել
 select
 
@@ -562,6 +571,12 @@ subject
 թեմա
 subject
 
+ներդիր
+tab
+
+սիւնատ|սյունատ
+tab
+
 ցուցակաստեղ
 tab
 
@@ -655,6 +670,9 @@ touch
 հպէկրան
 touchscreen
 
+նշիչ
+marker, cursor
+
 նշորդ
 marker, cursor
 
@@ -675,3 +693,156 @@ display
 
 դիւրակիր|դյուրակիր
 mobile
+
+սահանցում
+gradient
+
+սահատետր
+flip book
+
+իջնորդ
+drop-down
+
+տնէջ
+homepage
+
+փակցնել
+paste
+
+ներմուծել
+input
+
+զետեղել
+insert
+
+փոխազդու
+interactive
+
+ցատկանց
+jump cut
+
+ցատկանցում
+jump cut
+
+հիմնակադր
+keyframe
+
+սազանցում
+match cut
+
+բազմախաղորդ
+multiplayer
+
+ընտրանք
+option
+
+նախընտրութիւն|նախընտրություն
+option
+
+արտածում
+output, export
+
+համփիկ
+pacman
+
+փրչրթան
+jabberwocky
+
+հետագնայ|հետագնա
+pan out
+
+վահանակ
+panel
+
+վարիջակ
+pop-down
+
+վերելուկ
+pop-up
+
+օդապարուկ
+kite
+
+տեղափոխելի
+portable
+
+վերաթիրախաւորուող|վերաթիրախավորվող
+retargetable
+
+նախընտրանք
+preference
+
+նախընտրութիւններ|նախընտրություններ
+preferences
+
+ուժաճ
+powerup
+
+նախակայում
+preset
+
+արտապատկերիչ
+projector
+
+արագընթերց
+quick reader
+
+վերարկել
+redo
+
+նիւթաւորել|նյութավորել
+render
+
+աջկտտացնել
+right click
+
+երթուղիչ
+router
+
+կոշտ հատում
+raw cut
+
+չափափոխել
+scale
+
+գլիկ
+scroll
+
+ինքնամղուած|ինքնամղված
+selfmotivated
+
+բազմութիւն
+set
+
+կայանք
+setting
+
+կարգաւորում|կարգավորում
+setting
+
+կարգաւորումներ|կարգավորումներ
+settings
+
+կարճատ
+shortcut
+
+ճեպապատկեր
+snapshot
+
+ձայնային ազդանք
+sound effect
+
+բացատ
+space, spacebar
+
+հարթուկ
+sprite
+
+պատմասութիւն|պատմասություն
+storytelling
+
+համառոտագիր
+synopsis
+
+էջանիշ
+bookmark
