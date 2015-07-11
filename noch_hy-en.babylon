@@ -109,6 +109,9 @@ browser
 ցանցախոյզ
 browser
 
+հաղորդագրութիւն|հաղորդագրություն
+message
+
 քննարկաշար
 discussion thread
 
@@ -298,4 +301,356 @@ software
 ծրագրային ապահովում
 software
 
+փափկամաս
+software
 
+կեղծանուն
+alias, nickname
+
+մականուն
+nickname
+
+գաղտնագիր
+password
+
+գաղտնաբառ
+password
+
+ծածկագիր
+password
+
+նշաբան
+password
+
+պայմանաբառ
+password
+
+կցորդ
+attachment
+
+կցորդում
+attachment
+
+երիզ
+bar
+
+երկուական
+binary
+
+նիշ
+character
+
+հաճախորդ
+client
+
+փակել
+close
+
+կոդ
+code
+
+կապուել
+connect
+
+կպնել
+connect
+
+միանալ
+connect
+
+տուեալների շտեմարան|տվյալների շտեմարան
+database
+
+տուեալների բազա|տվյալների բազա
+database
+
+թուանիշ|թվանիշ
+digit
+
+թուանշային|թվանշային
+digital
+
+թուային|թվային
+digital
+
+թուայնացում
+digitization
+
+փաթեթ
+package
+
+փաթեթների կառավարիչ
+package manager
+
+փաթեթների կառավարում
+package management
+
+լքել
+escape
+
+լքում
+escape
+
+արտածել
+export
+
+հաւելում
+extention, plugin, add-on
+
+ձախողում
+failure
+
+արխիւ|արխիվ
+archive
+
+տառատեսակ
+font, typeface
+
+տառաղբիւր
+font, typeface
+
+էջատակ
+footer
+
+վերառաքում
+forward
+
+էջագլուխ
+header
+
+բովանդակային նիշք
+header file
+
+լուսաշեշտել
+highlight
+
+նշել
+select
+
+սկիզբ
+home, beginning
+
+պատկերակ
+icon
+
+ներածել
+import
+
+ներմուծել
+insert
+
+միջներգործութիւն|միջներգործություն
+interaction
+
+միջազդեցութիւն|միջազդեցություն
+interaction
+
+միջերես
+interface
+
+արտադէմ|արտադեմ
+interface
+
+յղում|հղում
+link, hyperlink
+
+ցուցիչ
+pointer
+
+արձանագրութիւն|արձանագրություն
+log
+
+նոյնականացում
+identification, authorization
+
+մուտքանուն
+login
+
+նոյնացուցիչ|նույնացուցիչ
+login
+
+ընտրացուցակ
+menu
+
+ընտրաերիզ
+menu
+
+բանավարիչ
+operating system
+
+օպերացիոն համակարգ
+operating system
+
+առաջնահերթութիւն
+priority
+
+յատկութիւն|հատկություն
+property
+
+յատկանիշ|հատկանիշ
+property
+
+յատկութիւններ|հատկություններ
+properties
+
+յատկանիշներ|հատկանիշներ
+properties
+
+հաղորդակարգ
+protocol
+
+հարցում
+query, request
+
+վերաուղղորդում
+redirection
+
+վկայակոչում
+reference
+
+յղիչ|հղիչ
+referrer
+
+պատասխան
+reply
+
+որոշիութիւն|որոշիություն
+resolution (of the screen for instance)
+
+պահել
+save
+
+յիշել|հիշել
+save
+
+պահել իբրեւ…
+save as…
+
+պահել որպէս…|պահել որպես…
+save as
+
+առաքել
+send
+
+ուղարկել
+send
+
+առաքել յետոյ|առաքել հետո
+send later
+
+ուղարկել յետոյ|ուղարկել հետո
+send later
+
+նիստ
+session
+
+լարք
+setup
+
+ցուցակարգիչ
+spread sheet
+
+կարգավիճակ
+status
+
+նիւթ|նյութ
+subject
+
+առարկայ|առարկա
+subject
+
+թեմա
+subject
+
+ցուցակաստեղ
+tab
+
+գործիք
+tool
+
+գործիքներ
+tools
+
+կարծական
+virtual
+
+մանրէ
+virus
+
+տեքստի խմբագրիչ
+text editor, word processor
+
+բառավարիչ
+word processor, text editor
+
+ցուցատախտակ
+banner
+
+կայքավահանակ
+banner
+
+ժապաւէն
+film, banner
+
+ազդաժապաւէն
+banner
+
+ծանուցում
+notification
+
+բջջային
+cellular
+
+անթել
+wireless
+
+համատեղելիութիւն|համատեղելիություն
+compatibility
+
+զրուցատուփ
+dialog box
+
+կրկնակտիկ
+double click
+
+կրկնակտոց
+double click
+
+կտիկ
+click
+
+կտոց
+click
+
+բազմասփիւռ
+multimedia
+
+հիմնօրինակում
+standartization
+
+թեքնաբանութիւն|թեքնաբանություն
+technology
+
+թեքնոլոգիա
+technology
+
+տեխնոլոգիա
+technology
+
+հեռագիտութիւն|հեռագիտություն
+telematics
+
+հեռատեղեկագիտութիւն|հեռատեղեկագիտություն
+telematics
+
+եզր
+term
+
+կտացնել
+to click
+
+հպել
+touch
+
+հպէկրան
+touchscreen

@@ -87,4 +87,95 @@ processor				հոլովույթ
 scanner					տեսածրիչ, ծրիչ, դիտակ, տեսածիր
 terminal				վերջակայան, եզրակայան, եզրույթ
 workstation				աշխատակայան
-software				ծրագրաշար, ծրագրային ապահովում
+software				ծրագրաշար, ծրագրային ապահովում, փափկամաս
+alias					կեղծանուն
+nickname				մականուն, կեղծանուն
+password				գաղտնագիր, ծածկագիր, գաղտնաբառ, պայմանաբառ, նշաբան
+attachment				կցորդ, կցորդում
+bar						երիզ
+binary					երկուական
+character				նիշ
+client					հաճախորդ
+close					փակել
+code					կոդ
+connect					կապուել, կպնել, միանալ
+database				տուեալների շտեմարան
+digit					թուանիշ
+digital					թուանշային
+digitization			թուայնացում
+package					փաթեթ
+раckage manager			փաթեթների կառավարիչ
+package management		փաթեթների կառավարում
+escape					լքել, լքում
+export					արտածել
+extension				հաւելում
+plugin					հաւելում
+add-on					հաւելում
+failure					ձախողում
+archive					արխիւ, տոմսածրար, գործ
+font					տառատեսակ, տառաղբիւր
+typeface				տառատեսակ
+footer					էջատակ
+forward					վերառաքում
+header					էջագլուխ
+header file				բովանդակային նիշք
+highlight				լուսաշեշտել
+select					նշել
+home					սկիզբ
+icon					պատկերակ
+import					ներածել
+insert					ներմուծել
+interaction				միջներգործութիւն, միջազդեցութիւն
+interface				միջերես, արտադէմ
+link					յղում
+hyperlink				յղում
+pointer					ցուցիչ
+log						արձանագրություն
+identification			նոյնականացում
+authorization			նոյնականացում
+login					մուտքանուն, նույնացուցիչ
+menu					ընտրացուցակ, ընտրաերիզ
+operating system		օպերացիոն համակարգ, բանավարիչ
+priority				առաջնահերթութիւն
+property				յատկութիւն, յատկանիշ
+properties				յատկութիւններ, յատկանիշներ
+protocol				հաղորդակարգ
+query					հարցում
+request					հարցում
+redirection				վերաուղղորդում
+reference				յղում, վկայակոչում, մէջբերում, քաղուածք
+referrer				հղիչ
+reply					պատասխան
+resolution				որոշութիւն (պաստառի)
+save					պահել, հիշել
+save as					պահել իբրեւ… (որպէս)
+send					ուղարկել, առաքում, առաքել
+send later				ուղարկել յետոյ, առաքել յետոյ
+session					նիստ
+setup					լարք
+spread sheet			ցուցակարգիչ
+status					կարգավիճակ
+subject					նիւթ, առարկա, թեմա
+tab						ցուցակաստեղ
+tool					գործիք
+tools					գործիքներ
+virtual					կարծական
+virus					մանրէ
+word processor			բառավարիչ, տեքստի խմբագրիչ
+banner					ցուցատախտակ, կայքավահանակ, ժապաւէն, ազդաժապաւէն, ծանուցում
+notification			ծանուցում
+cellular				բջջային
+cellular phone			բջջային, անթել, ազատ հեռախօս, ձեռքի հեռախօս
+wireless				անթել
+compatibility			համատեղելիութիւն
+dialog box				զրուցատուփ
+double click			կրկնակտոց, կրկնակտիկ
+click					կտոց, կտիկ
+multimedia				բազմասփյուռ
+standardization			հիմնօրինակում
+technology				թեքնաբանութիւն, թեքնոլոգիա, տեխնոլոգիա
+telematics				հեռա(տեղեկա)գիտութիւն
+term					եզր
+to click				կտացնել, սեղմել, չխկել, թխկել, կտիկ
+touch					հպել
+touchscreen				հպէկրան
