@@ -6,16 +6,16 @@ folder				պանակ
 directory			պանակ
 sensor				զգիչ
 flash drive			կրիչ
-axiome				հենասոյթ (հենասույթ սովետական ուղղագրութեամբ)
+axiome				հենասոյթ
 sustainable			կենսակայուն
-concept				յղանցք (հղանցք սովետական ուղղագրութեամբ)
+concept				յղանցք
 version				վարկած, տարբերակ
-smartphone			խելախօս (խելախոս)
-layout				շարուածք (շարվածք), շարակարգ
-keyboard layout		շարուածք (շարվածք)
+smartphone			խելախօս
+layout				շարուածք, շարակարգ
+keyboard layout		շարուածք
 computer			կարգիչ, համակարգիչ, բանակարգիչ
 brute-force search	յատարկում
-bold				թաւատառ (թավատառ)
+bold				թաւատառ
 italic				շեղատառ
 subscription		բաժանորդագիր
 season-ticket		բաժանորդագիր
@@ -28,7 +28,7 @@ accelerator				արագացուցիչ
 access					հասանելիութիւն
 accessibility			հասանելիութիւն
 credentials				լիազօրութիւն
-account					հաշիւ (հաշիվ)
+account					հաշիւ
 open access movement	բաց հասանելիութեան շարժում
 television				պատկերասփիւռ, հեռուստատեսութիւն
 action					գործողութիւն
@@ -297,3 +297,4 @@ verify					ստուգել, վաւերացնել
 verification			ստուգում, վաւերացում
 visual					տեսողական, դիտողական
 shell					կեղեւ, միջավայր
+tile					սալիկ
