@@ -307,6 +307,9 @@ software
 փափկամաս
 software
 
+ծրագրակազմ
+software
+
 կեղծանուն
 alias, nickname
 
@@ -434,7 +437,7 @@ highlight
 highlight
 
 նշել
-select
+select, specify
 
 սկիզբ
 home, beginning
@@ -471,6 +474,9 @@ log
 
 նոյնականացում
 identification, authorization
+
+վավերացում
+authentication
 
 մուտքանուն
 login
@@ -951,3 +957,81 @@ debug
 
 վրիպազերծել
 debug
+
+վերահսկողութիւն|վերահսկողություն
+surveillance
+
+հաղորդակցութիւն|հաղորդակցություն
+communication
+
+գաղտնիութիւն|գաղտնիություն
+privacy
+
+անվտանգութիւն|անվտանգություն
+security
+
+յատկացնել|հատկացնել
+allocate
+
+կիրառութիւն|կիրառություն
+application
+
+ծրագիր
+program, application
+
+սլաք
+arrow
+
+ֆոն
+background
+
+հենք
+background
+
+մեկնարկ
+boot
+
+վերամեկնարկ
+reboot
+
+գործարկել
+run
+
+յուսալի|հուսալի
+reliable
+
+կողասիւն|կողասյուն
+sidebar
+
+կպչուն ստեղներ
+sticky keys
+
+տող
+string
+
+աջակցութիւն|աջակցություն
+support
+
+տեխնիկական աջակցութիւն|տեխնիկական աջակցություն
+technical support
+
+մանրապատկեր
+thumbnail
+
+պատկեր
+image
+
+փոխանջատել
+toggle
+
+յուշում
+hint, tip
+
+ակնարկ
+hint
+
+փոխակերպել
+convert
+
+փոխակերպիչ
+converter

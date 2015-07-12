@@ -87,7 +87,7 @@ processor				հոլովույթ
 scanner					տեսածրիչ, ծրիչ, դիտակ, տեսածիր
 terminal				վերջակայան, եզրակայան, եզրույթ
 workstation				աշխատակայան
-software				ծրագրաշար, ծրագրային ապահովում, փափկամաս
+software				ծրագրաշար, ծրագրային ապահովում, ծրագրակազմ, փափկամաս
 alias					կեղծանուն
 nickname				մականուն, կեղծանուն
 password				գաղտնագիր, ծածկագիր, գաղտնաբառ, պայմանաբառ, նշաբան
@@ -133,6 +133,7 @@ pointer					ցուցիչ
 log						արձանագրություն
 identification			նոյնականացում
 authorization			նոյնականացում
+authentication			վավերացում
 login					մուտքանուն, նույնացուցիչ
 menu					ընտրացուցակ, ընտրաերիզ
 operating system		օպերացիոն համակարգ, բանավարիչ
@@ -258,3 +259,28 @@ distributive			տարածոյ
 engineer				ճարտարագէտ, ինժեներ
 engine					շարժիչ
 debug					վրիպազերծում, վրիպազերծել
+surveillance			վերահսկողութիւն
+communication			հաղորդակցութիւն
+privacy					գաղտնիութիւն
+security				անվտանգութիւն
+allocate				յատկացնել
+application				ծրագիր, կիրառութիւն
+program					ծրագիր
+arrow					սլաք
+background				հենք, ֆոն
+boot					մեկնարկ
+reboot					վերամեկնարկ
+run						գործարկել
+reliable				յուսալի
+sidebar					կողասիւն
+specify					նշել
+sticky keys				կպչուն ստեղներ
+string					տող
+support					աջակցութիւն
+technical support		տեխնիկական (թեքնիկական) աջակցութիւն
+thumbnail				մանրապատկեր
+image					պատկեր
+toggle					փոխանջատել
+hint					յուշում, ակնարկ
+convert					փոխակերպել
+converter				փոխակերպիչ
