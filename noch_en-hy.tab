@@ -9,7 +9,7 @@ flash drive			կրիչ
 axiome				հենասոյթ (հենասույթ սովետական ուղղագրութեամբ)
 sustainable			կենսակայուն
 concept				յղանցք (հղանցք սովետական ուղղագրութեամբ)
-version				վարկած
+version				վարկած, տարբերակ
 smartphone			խելախօս (խելախոս)
 layout				շարուածք (շարվածք), շարակարգ
 keyboard layout		շարուածք (շարվածք)
@@ -133,7 +133,7 @@ pointer					ցուցիչ
 log						արձանագրություն
 identification			նոյնականացում
 authorization			նոյնականացում
-authentication			վավերացում
+authentication			վաւերացում
 login					մուտքանուն, նույնացուցիչ
 menu					ընտրացուցակ, ընտրաերիզ
 operating system		օպերացիոն համակարգ, բանավարիչ
@@ -284,3 +284,16 @@ toggle					փոխանջատել
 hint					յուշում, ակնարկ
 convert					փոխակերպել
 converter				փոխակերպիչ
+manual					ձեռնարկ
+type					տիպ
+typed					տիպաւորուած
+unknown					անյայտ
+mount					միացնել (սկաւառակը, դիսկը)
+user					օգտուող, օգտագործող, օգտատէր
+value					արժէք
+variable				փոփոխական
+constant				հաստատուն
+verify					ստուգել, վաւերացնել
+verification			ստուգում, վաւերացում
+visual					տեսողական, դիտողական
+shell					կեղեւ, միջավայր
