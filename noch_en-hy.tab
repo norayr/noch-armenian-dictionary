@@ -27,7 +27,10 @@ indigenous				բնիկ, անդրենածին
 accelerator				արագացուցիչ
 access					հասանելիութիւն
 accessibility			հասանելիութիւն
-credentials				լիազօրութիւն
+credential				հաւատարմագիր
+credentials				հաւատարմագրեր
+privilege				լիազօրութիւն, արտօնութիւն
+license					արտօնագիր
 account					հաշիւ
 open access movement	բաց հասանելիութեան շարժում
 television				պատկերասփիւռ, հեռուստատեսութիւն
@@ -42,7 +45,7 @@ domain					տիրոյթ
 extranet				արտացանց
 guestbook				այցեգիրք
 node					հանգոյց
-host					հանգոյց
+host					խնամորդ, հանգոյց
 hypertext				հիպերտեքստ, գերտեքստ, գերբառաշար, գերբառահյուսք, գերհյուսք 
 intranet				ներցանց
 LAN						տեղային ցանց
@@ -280,7 +283,7 @@ support					աջակցութիւն
 technical support		տեխնիկական (թեքնիկական) աջակցութիւն
 thumbnail				մանրապատկեր
 image					պատկեր
-toggle					փոխանջատել
+toggle					փոխարկել
 hint					յուշում, ակնարկ
 convert					փոխակերպել
 converter				փոխակերպիչ
@@ -295,6 +298,12 @@ variable				փոփոխական
 constant				հաստատուն
 verify					ստուգել, վաւերացնել
 verification			ստուգում, վաւերացում
+two-step verification	երկքայլ ստուգում
 visual					տեսողական, դիտողական
 shell					կեղեւ, միջավայր
 tile					սալիկ
+markup					նշարկում
+Hypertext Markup Language	Հիպերտեքստի նշարկման լեզու
+Hypertext Transfer Protocol	Հիպերտեքստի փոխանցման հաղորդակարգ
+task					խնդիր
+periodic				պարբերական

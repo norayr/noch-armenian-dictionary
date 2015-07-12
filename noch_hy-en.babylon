@@ -91,6 +91,21 @@ access, accessibility
 բաց հասանելիութեան շարժում|բաց հասանելիության շարժում
 open access movement
 
+հաւատարմագիր|հավատարմագիր
+credential
+
+հաւատարմագրեր
+credentials
+
+լիազօրութիւն|լիազորություն
+privilege
+
+արտօնութիւն|արտոնություն
+privilege
+
+արտօնագիր
+license
+
 պատկերասփիւռ|պատկերասփյուռ
 television
 
@@ -132,6 +147,9 @@ guestbook
 
 հանգոյց|հանգույց
 host, node
+
+խնամորդ
+host
 
 հիպերտեքստ
 hypertext
@@ -1024,7 +1042,7 @@ thumbnail
 պատկեր
 image
 
-փոխանջատել
+փոխարկել
 toggle
 
 յուշում
@@ -1086,3 +1104,21 @@ shell
 
 սալիկ
 tile
+
+նշարկում
+markup
+
+Հիպերտեքստի նշարկման լեզու
+Hypertext Markup Language
+
+Հիպերտեքստի փոխանցման հաղորդակարգ
+Hypertext Transfer Protocol
+
+երկքայլ ստուգում
+two-step verification
+
+խնդիր
+task
+
+պարբերական
+periodic
