@@ -710,9 +710,27 @@ spread
 
 ծածկոյթ|ծածկույթ
 coverage
+
+վիճակ
+status
+
+վիճակագօտի|վիճակագոտի
+status bar
+
+զեկոյց|զեկույց
+report
+
 կարգավիճակ
 status
 
+առցանց
+online
+
+առգիծ
+online
+
+անցանց
+offline
 նիւթ|նյութ
 subject
 
@@ -738,6 +756,12 @@ tool
 tools
 
 կարծական
+virtual
+
+վիրտուալ
+virtual
+
+վերիրական
 virtual
 
 մանրէ
@@ -771,6 +795,9 @@ notification
 cellular
 
 անթել
+wireless
+
+անլար
 wireless
 
 համատեղելիութիւն|համատեղելիություն
@@ -1161,7 +1188,7 @@ sidebar
 sticky keys
 
 տող
-string
+line, string
 
 աջակցութիւն|աջակցություն
 support
