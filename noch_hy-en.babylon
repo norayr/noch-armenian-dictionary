@@ -16,11 +16,50 @@ file
 պանակ
 folder, directory
 
+արմատային պանակ
+root folder, root directory
+
+պանակների ցուցակ
+folder list
+
+պանակի փեղկ
+folder pane
+
+փեղկ
+pane
+
+մտից պանակ
+inbox folder
+
 զգիչ
 sensor
 
+սենսոր
+sensor
+
+ռադիոյաճախութեան սենսոր|ռադիոհաճախության սենսոր | ռադիոյաճախութեան զգիչ | ռադիոհաճախականության զգիչ
+RFID sensor
+
+կենսաչափութիւն
+biometry
+
+կենսաչափական
+biometric
+
+միջավայր
+environment
+
+մօտիկութիւն|մոտիկություն
+proximity
+
+մօտիկութեան սենսոր|մոտիկության սենսոր
+proximity sensor
+
 կրիչ
-flash drive
+data storag, for example flash drive
+
+յիշասարք|հիշասարք
+data storage, for example flash drive
 
 հենասոյթ|հենասույթ
 axiome
@@ -48,6 +87,18 @@ keyboard layout, layout
 
 շարակարգ
 layout
+
+դասաւորութիւն|դասավորություն
+layout
+
+գործուն օբյեկտ
+active object
+
+տեղային
+local
+
+կապուած|կապված
+linked
 
 կարգիչ
 computer
@@ -106,6 +157,9 @@ privilege
 արտօնագիր
 license
 
+վկայագիր
+certificate
+
 պատկերասփիւռ|պատկերասփյուռ
 television
 
@@ -115,7 +169,7 @@ television
 գործողութիւն|գործողություն
 action
 
-կարգաւորում|կարգավորում
+կարգաբերում
 adjustment
 
 հաւասարեցնել|հավասարեցնել
@@ -138,6 +192,18 @@ discussion thread
 
 տիրոյթ|տիրույթ
 domain
+
+տիրոյթի հսկիչ
+domain controller
+
+գործուն գրացուցակներ
+active directory
+
+վերապահում
+reservation
+
+վերապահած
+reserved
 
 արտացանց
 extranet
@@ -162,6 +228,15 @@ hypertext
 
 գերբառահիւսք|գերբառահյուսք
 hypertext
+
+գերկապ
+hyperlink
+
+գրուածք|գրվածք
+text
+
+տեքստ
+text
 
 գերհիւսք|գերհյուսք
 hypertext
@@ -296,6 +371,9 @@ port
 printer
 
 հոլովոյթ|հոլովույթ
+processor
+
+պրոցեսոր
 processor
 
 տեսածրիչ
@@ -445,6 +523,12 @@ forward
 էջագլուխ
 header
 
+բովանդակութիւն|բովանդակություն
+content
+
+նկարագրութիւն
+description
+
 բովանդակային նիշք
 header file
 
@@ -553,6 +637,9 @@ reply
 որոշիութիւն|որոշիություն
 resolution (of the screen for instance)
 
+բարձր հստակութիւն|բարձր հստակություն
+high definition
+
 պահել
 save
 
@@ -565,6 +652,11 @@ save as…
 պահել որպէս…|պահել որպես…
 save as
 
+ինքնաշխատօրէն պահել|ինքնաշխատորեն պահել
+automatically save
+
+ինքնաշխատօրէն|ինքնաշխատորեն
+automatically
 առաքել
 send
 
@@ -580,8 +672,20 @@ send later
 նիստ
 session
 
+աշխատաշրջան
+session
+
 լարք
 setup
+
+կարգաւորում|կարգավորում
+setup
+
+տեղակայում
+installation
+
+տեղակայել
+to install
 
 ցուցակարգիչ
 spread sheet
@@ -621,6 +725,9 @@ virus
 
 տեքստի խմբագրիչ
 text editor, word processor
+
+բառամշակիչ
+word processor
 
 բառավարիչ
 word processor, text editor
@@ -667,6 +774,9 @@ click
 բազմասփիւռ
 multimedia
 
+մուլտիմեդիա
+multimedia
+
 հիմնօրինակում
 standartization
 
@@ -684,6 +794,9 @@ telematics
 
 հեռատեղեկագիտութիւն|հեռատեղեկագիտություն
 telematics
+
+հեռուստաչափութիւն|հեռուստաչափություն
+telemetry
 
 եզր
 term
