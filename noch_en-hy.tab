@@ -324,7 +324,7 @@ typeface				տառատեսակ
 type					տիպ
 undo					հետարկու, հետարկել
 unknown					անյայտ
-unzip					անխիտ
+uncompress					անխիտ
 user					օգտուող, օգտագործող, օգտատէր
 value					արժէք
 variable				փոփոխական
@@ -349,8 +349,8 @@ workshop				աշխատարան
 workstation				աշխատակայան
 World Wide Web			ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ) 
 WWW						ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ) 
-zip file				խիտ նիշք, սեղմանիշք
-zip						խտացնել, սեղմել
+compressed file				խիտ նիշք, սեղմանիշք
+compress						խտացնել, սեղմել
 zooming					դիտափոխում
 рop-down				վարիջակ
 рop-up					վերելուկ

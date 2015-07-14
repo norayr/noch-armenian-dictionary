@@ -1065,7 +1065,7 @@ undo
 cancel
 
 անխիտ
-unzip
+uncompress
 
 տեսլակներ
 visions
@@ -1083,10 +1083,10 @@ workshop
 pack
 
 սեղմել
-zip
+compress
 
 խիտ նիշք
-zip file
+compressed file
 
 սեղմանիշք
 zip file
