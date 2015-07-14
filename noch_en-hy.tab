@@ -309,3 +309,7 @@ Hypertext Transfer Protocol	Հիպերտեքստի փոխանցման հաղոր
 task					խնդիր
 periodic				պարբերական
 emulation				նմանակում
+condition				պայման
+conditional				պայմանական
+compiler				կոմպիլյատոր
+interpreter				ինտերպրետատոր
