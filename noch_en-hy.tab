@@ -12,7 +12,7 @@ administrator			վարիչ
 alias					այլանուն
 align					հաւասարեցնել
 allocate				յատկացնել
-application				ծրագիր, կիրառութիւն
+application				ծրագիր, կիրառութիւն, յաւելուած
 archive					արխիւ, տոմսածրար, գործ
 arrow					սլաք
 attachment				կցորդ, կցորդում
@@ -21,7 +21,8 @@ authorization			նոյնականացում
 automatically save		ինքնաշխատօրէն պահել
 automatically			ինքնաշխատօրէն
 axiome				հենասոյթ
-background				հենք, ֆոն
+background				հենք, ֆոն, ետնապատկեր, ետնանկար
+backup					պահուստաւորում
 banner					ցուցատախտակ, կայքավահանակ, ժապաւէն, ազդաժապաւէն, ծանուցում
 bar						երիզ
 battery					մարտկոց
@@ -29,13 +30,18 @@ binary					երկուական
 biometric			կենսաչափական
 biometry			կենսաչափութիւն
 board					տպասալ
-bold				թաւատառ
+bold				թաւ, թաւատառ
 bookmark				էջանիշ, էջանշել
 boot					մեկնարկ
+border					սահմանագիծ
+breakpoint				տողանցման/ընդհատման կէտ
 browser					զննիչ, ցանցախոյզ
 brute-force search	յատարկում
+built-in				ներկառուցուած
 cancel					չեղարկել
+canvas					կտաւ
 capitalism				կապիտալիզմ, դրամատիրութիւն
+category				կատեգորիա
 cellular phone			բջջային, անթել, ազատ հեռախօս, ձեռքի հեռախօս
 cellular				բջջային
 certificate				վկայագիր
@@ -43,8 +49,12 @@ character				նիշ
 cinema					սինեմա, կինեմա
 click					կտոց, կտիկ
 client					հաճախորդ
+clone					կրկնօրինակ
 close					փակել
-code					կոդ
+cloud computing			ամպային լուծումներ
+code					կոդ, այլագիր
+column					սիւն
+command					հրահանգ
 communication			հաղորդակցութիւն
 compatibility			համատեղելիութիւն
 compiler				կոմպիլյատոր
@@ -53,36 +63,58 @@ computer			կարգիչ, համակարգիչ, բանակարգիչ
 concept				յղանցք
 conditional				պայմանական
 condition				պայման
+configuration			կոնֆիգուրացիա, կազմաձեւ
 connect					կապուել, կպնել, միանալ
+container				կոնտեյներ
 constant				հաստատուն
 content					բովանդակութիւն
 converter				փոխարկիչ
 convert					փոխարկել
+copy				պատճէն, պատճէնել
 copyright			պատճէնաշնորհ
+core					միջուկ
 coverage				ծածկոյթ
 credentials				հաւատարմագրեր
 credential				հաւատարմագիր
+current					ընթացիկ
 cursor					նշիչ, նշորդ
 cut						կտրել, հատել
-database				տուեալների շտեմարան
+data					տուեալ, տուեալներ
+database				տուեալների շտեմարան, տուեալների հենք
 debug					վրիպազերծում, վրիպազերծել
+declaration				յայտարարում
+declared range			յայտարարուած միջակայք
+default					լռելեայն
+define					սահմանել
+definition				սահմանում
+delete					ջնջել
 description				նկարագրութիւն
 desktop					աշխատասեղան, սեղանակ
+device					սարք, սարքաւորում
 dialog box				զրուցատուփ
 digital					թուանշային
 digitization			թուայնացում
 digit					թուանիշ
-directory			պանակ
+dimension				չափ
+directory			պանակ, գրացուցակ, դիրեկտորիա
+disc					սկաւառաւ, պնակ
 discussion thread		քննարկաշար
-display					ցուցադրիչ
-distributive			տարածոյ
+display					ցուցադրիչ, ցուցադրել
+distribution			տարածոյ
 domain controller		տիրոյթի հսկիչ
 domain					տիրոյթ
 double click			կրկնակտոց, կրկնակտիկ
 drop-down				իջնորդ
 e-ink reader			ընթերցիչ
 e-mail				ուղերձ, էլ֊փոստ, իմակ
+edit					խմբագրել
+editor					խմբագրիչ
+element					էլեմենտ, տարր
+embed					ներդնել
 emulation				նմանակում
+encoding				կոդաւորում
+endnote					ծանօթագրութիւն
+engine					շարժիչ
 engineer				ճարտարագէտ, ինժեներ
 engine					շարժիչ
 environment			միջավայր
@@ -222,6 +254,7 @@ proximity			մօտիկութիւն
 public folder		հանրային պանակ
 query					հարցում
 quick reader			արագընթերց
+range					միջակայք
 raw cut					կոշտ հատում
 reader					ընթերցիչ
 reboot					վերամեկնարկ

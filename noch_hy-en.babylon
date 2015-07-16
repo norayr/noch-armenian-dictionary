@@ -115,6 +115,30 @@ brute-force search
 թաւատառ|թավատառ
 bold
 
+թաւ|թավ
+bold
+
+սահմանագիծ
+border
+
+տողանցման կէտ|տողանցմանկետ
+breakpoint
+
+ըդհատման կէտ|ընդհատման կետ
+breakpoint
+
+ներկառուցուած|ներկառուցված
+built-in
+
+կտաւ|կտավ
+canvas
+
+կատեգորիա
+category
+
+կրկնօրինակ
+clone
+
 շեղատառ
 italic
 
@@ -454,6 +478,27 @@ close
 կոդ
 code
 
+այլագիր
+code
+
+ամպային լուծումներ
+cloud computing
+
+սիւն|սյուն
+column
+
+կոնտեյներ
+container
+
+կոնֆիգուրացիա
+configuration
+
+կազմաձեւ
+configuration
+
+ընթացիկ
+current
+
 կապուել
 connect
 
@@ -463,14 +508,62 @@ connect
 միանալ
 connect
 
+տուեալ
+data
+
+տուեալներ
+data
+
 տուեալների շտեմարան|տվյալների շտեմարան
+database
+
+տուեալների հենք|տվյալների հենք
 database
 
 տուեալների բազա|տվյալների բազա
 database
 
+լռելեայն
+default
+
+յայտարարում|հայտարարում
+declaration
+
+հրահանգ
+command
+
+միջակայք
+range
+
+յայտարարուած միջակայք|հայտարարուած միջակայք
+declared range
+
+սահմանել
+define
+
+սահմանում
+definition
+
+ջնջել
+delete
+
+սարք
+device
+
+սարքաւորում|սարքավորում
+device
+
 թուանիշ|թվանիշ
 digit
+
+սպաւառակ|սկավառակ
+disc
+
+պնակ
+disc
+
+չափ
+dimension
 
 թուանշային|թվանշային
 digital
@@ -770,6 +863,26 @@ virus
 տեքստի խմբագրիչ
 text editor, word processor
 
+խմբագրիչ
+editor
+
+էլեմենտ
+element
+
+տարր
+element
+
+ներդնել
+embed
+
+կոդաւորում|կոդավորում
+encoding
+
+ծանօթագրութիւն|ծանոթագրություն
+endnote
+
+շարժիչ
+engine
 բառամշակիչ
 word processor
 
@@ -875,8 +988,14 @@ desktop
 սեղանակ
 desktop
 
+ցուցադրել
+display
+
 ցուցադրիչ
 display
+
+խմբագրել
+edit
 
 դիւրակիր|դյուրակիր
 mobile
