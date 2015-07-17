@@ -13,6 +13,9 @@ e-mail
 նիշք
 file
 
+նիշքային համակարգ
+file system
+
 պանակ
 folder, directory
 
@@ -25,6 +28,21 @@ folder list
 պանակի փեղկ
 folder pane
 
+զտել
+to filter
+
+ֆիլտրել
+to filter
+
+սահող ստորակէտով
+floating point
+
+սահող
+float
+
+ճկուն
+flexible
+
 փեղկ
 pane
 
@@ -32,6 +50,9 @@ pane
 inbox folder
 
 զգիչ
+sensor
+
+զգայունակ
 sensor
 
 սենսոր
@@ -49,11 +70,20 @@ biometric
 միջավայր
 environment
 
+հեռաչափ
+proximity sensor
+
 մօտիկութիւն|մոտիկություն
 proximity
 
 մօտիկութեան սենսոր|մոտիկության սենսոր
 proximity sensor
+
+շառաւիղ
+radius
+
+ուղղանկիւն|ուղղանկյուն
+rectangular
 
 կրիչ
 data storag, for example flash drive
@@ -78,6 +108,9 @@ version
 
 վարկած
 version
+
+հնարաւորութիւն|հնարավորություն
+option
 
 խելախօս|խելախոս
 smartphone
@@ -139,8 +172,17 @@ category
 կրկնօրինակ
 clone
 
+շեղագիր
+italic
+
 շեղատառ
 italic
+
+հաւասարեցնել տողավերջերը|հավասարեցնել տողավերջերը
+justify
+
+միջուկ
+kernel
 
 կարգիչ
 computer
@@ -262,6 +304,21 @@ text
 տեքստ
 text
 
+գրուածք|գրվածք
+script
+
+սկրիպտ
+script
+
+իմաստային
+semantic
+
+իմաստաբանական
+semantic
+
+սեմանտիկ
+semantic
+
 գերհիւսք|գերհյուսք
 hypertext
 
@@ -300,6 +357,9 @@ mailing list
 
 նաւորդ|նավորդ
 navigator
+
+նաւարկում|նավարկում
+navigation
 
 տեղեկատվախումբ
 newsgroup
@@ -376,6 +436,27 @@ microprocessor
 միացուցիչ
 modem
 
+մոդուլ
+module
+
+միջուկի մոդուլ
+kernel module
+
+միջուկի տիրոյթ|միջուկի տիրույթ
+kernel space
+
+բանալի բառ
+keyword
+
+առանցքային բառ
+keyword
+
+լայնակի
+landscape
+
+շերտ
+layer
+
 մկնիկ
 mouse
 
@@ -390,6 +471,15 @@ plotter
 
 կցատեղ
 port
+
+միացք
+port
+
+սարքամիացք
+port
+
+երկայնակի
+portrait
 
 տպիչ
 printer
@@ -416,6 +506,9 @@ terminal
 terminal
 
 եզրոյթ|եզրույթ
+terminal
+
+վերջնասարք
 terminal
 
 աշխատակայան
@@ -607,14 +700,55 @@ font, typeface
 տառաղբիւր
 font, typeface
 
+էջախորագիր
+footer
+
+ստորագիր
+footer
+
 էջատակ
 footer
+
+տողատակի ծանօթագրութիւն|տողատակի ծանոթագրություն
+footnote
+
+ծանօթագրութիւն|ծանոթագրություն
+footnote
+
+ձեւաչափ
+format
 
 վերառաքում
 forward
 
+շրջանակ
+frame
+
+գեներացնել
+generate
+
+գեներատոր
+generator
+
+գրաֆիկական
+graphic
+
+գծապատկեր
+graphics
+
 էջագլուխ
+
+կոշտ սկաւառակ
+hard disk drive
+
+գլխագիր
 header
+
+վերնագիր
+heading
+
+խորագիր
+heading
 
 բովանդակութիւն|բովանդակություն
 content
@@ -637,6 +771,42 @@ highlight
 նշել
 select, specify
 
+բնորոշել
+specify
+
+բնորոշ
+specific
+
+անջատել
+shut down
+
+թեքում
+skew
+
+բաժանել
+split
+
+դրոշմ
+stamp
+
+կնիք
+stamp
+
+կնքել
+to stamp
+
+stretch
+ձգել
+
+ոճ
+style
+
+ոճային սխեմա
+stylesheet
+
+մեկնարկ
+start
+
 սկիզբ
 home, beginning
 
@@ -647,7 +817,16 @@ icon
 import
 
 ներմուծել
+import
+
+նոր պարբերութիւն|նոր պարբերություն
+indent
+
+զետեղել
 insert
+
+ներտողային
+inline
 
 միջներգործութիւն|միջներգործություն
 interaction
@@ -664,6 +843,15 @@ interface
 յղում|հղում
 link, hyperlink
 
+գերկապ
+hyperlink
+
+գերյղում|գերհղում
+hyperlink
+
+հիպերյղում|հիպերհղում
+hyperlink
+
 ցուցիչ
 pointer
 
@@ -672,6 +860,18 @@ log
 
 նոյնականացում
 identification, authorization
+
+նոյնացում|նույնացում
+identification
+
+ինքնութեան հաստատում|ինքնության հաստատում
+identification
+
+իսկութեան հաստատում|իսկության հաստատում
+identification
+
+անտեսել
+ignore
 
 վաւերացում
 authentication
@@ -682,20 +882,46 @@ login
 նոյնացուցիչ|նույնացուցիչ
 login
 
+հրամանացանկ
+menu
+
+ընտրանի
+menu
+
 ընտրացուցակ
 menu
 
 ընտրաերիզ
 menu
 
+միաձուլել
+merge
+
+միաւորել
+merge
+
+մետատուեալ|մետատվյալ
+metadata
 բանավարիչ
+
+ռեժիմ
+mode
+
+անցափանցիկութիւն|անթափանցիկություն
+opacity
 operating system
 
 օպերացիոն համակարգ
 operating system
 
-առաջնահերթութիւն
+առաջնահերթութիւն|առաջնահերթություն
 priority
+
+գործընթաց
+process
+
+պրոցես
+process
 
 յատկութիւն|հատկություն
 property
@@ -721,17 +947,80 @@ redirection
 վկայակոչում
 reference
 
+առնչութիւն|առնչություն
+reference
+
+գրանցուել
+register
+
+կանոնաւոր արտայայտութիւն|կանոնավոր արտահայտություն
+regular expression
+
+վերբեռնել
+reload
+
+վերանուանել|վերանվանել
+rename
+
+անուանափոխել|անվանափոխել
+rename
+
+փոխարինել
+replace
+
+փոխանցել
+transfer
+
+ընդգծում
+underline
+
+ընդգծել
+underline
+
+չդասաւորուած ցուցակ|չդասավորված ցուցակ
+unordered list
+
+վերբեռնել
+upload
+
+ներբեռնել
+download
+
+կիրառութիւնների տիրոյթ|կիրառությունների տիրույթ
+user space
+
+օգտագործողի տիրոյթ|օգտագործողի տիրույթ
+user space
+
 յղիչ|հղիչ
 referrer
 
 պատասխան
 reply
 
+չափերի համամասնութիւն|չափերի համամասնություն
+resolution
+
+լուծաչափ
+resolution
+
+լուծունակութիւն|լուծունակություն
+resolution
+
 որոշիութիւն|որոշիություն
 resolution (of the screen for instance)
 
 բարձր հստակութիւն|բարձր հստակություն
 high definition
+
+պատասխան
+response
+
+վերագործարկել
+restart
+
+վերականգնել
+restore
 
 պահել
 save
@@ -773,6 +1062,9 @@ setup
 
 կարգաւորում|կարգավորում
 setup
+
+տեղադրում
+installation
 
 տեղակայում
 installation
@@ -871,6 +1163,12 @@ element
 
 տարր
 element
+
+ցուցակի տարր
+list item
+
+item
+տարր
 
 ներդնել
 embed
@@ -1021,8 +1319,23 @@ input
 զետեղել
 insert
 
+փոխգործուն
+interactive
+
 փոխազդու
 interactive
+
+համացանց
+internet
+
+ինտերնետ ծառայութիւնների մատակարար|ինտերնետ ծառայությունների մատակարար
+internet service provider
+
+հակադարձ
+inverse
+
+հակադարձել
+inverse
 
 ցատկանց
 jump cut
@@ -1045,8 +1358,56 @@ option
 նախընտրութիւն|նախընտրություն
 option
 
+ընտրանքային
+optional
+
+դասաւորուած ցուցակ|դասավորված ցուցակ
+ordered list
+
+կողմնորոշում
+orientation
+
+գերակայել
+override
+
+հատոր
+partition
+
+ուղի
+path
+
+նմուշ
+pattern
+
+իրաւասութիւն|իրավասություն
+permission
+
+լիազօրութիւն|լիազորություն
+permission
+
+թոյլտւութիւն|թույլտվություն
+permission
+
+ընտրել
+pick
+
+փիքսել
+pixel
+
+բազմանկիւն|բազմանկյուն
+polygon
+
 արտածում
 output, export
+
+արտահանել
+export
+
+նախընտրած
+favourite
+
+իրադարձութիւն
+event
 
 համփիկ
 pacman
@@ -1111,6 +1472,9 @@ raw cut
 չափափոխել
 scale
 
+շարժական
+scrollable
+
 գլիկ
 scroll
 
@@ -1118,6 +1482,9 @@ scroll
 selfmotivated
 
 բազմութիւն
+set
+
+կայել
 set
 
 կայանք
@@ -1128,6 +1495,9 @@ setting
 
 կարգաւորումներ|կարգավորումներ
 settings
+
+կանչագիր
+shortcut
 
 կարճատ
 shortcut
@@ -1153,8 +1523,23 @@ synopsis
 էջանիշ
 bookmark
 
+տեգ
+tag
+
 պիտակ
 tag, label
+
+առաջադրանքների վահանակ
+task pane
+
+շաբլոն
+template
+
+ձեւանմուշ
+template
+
+կաղապար
+template
 
 տրոհ
 tag
@@ -1292,7 +1677,13 @@ background
 boot
 
 վերամեկնարկ
-reboot
+reboot, restart
+
+վերամեկնարկել
+reboot, restart
+
+աշխատեցնել
+run
 
 գործարկել
 run
@@ -1309,14 +1700,26 @@ sticky keys
 տող
 line, string
 
+օժանդակում
+support
+
+օժանդակ ծրագիր
+utility
+
 աջակցութիւն|աջակցություն
 support
 
 տեխնիկական աջակցութիւն|տեխնիկական աջակցություն
 technical support
 
+շարահիւսութիւն|շարահյուսություն
+syntax
+
 մանրապատկեր
 thumbnail
+
+աղիւսակ
+table
 
 պատկեր
 image
@@ -1360,8 +1763,26 @@ user
 օգտուող|օգտվող
 user
 
-արժէք
+արժէք|արժեք
 value
+
+տեսանիւթ|տեսանյութ
+video
+
+տեսանելի
+visible
+
+լայնութիւն|լայնություն
+width
+
+տողանցում
+wrap
+
+խոշորացնել
+zoom in
+
+փոքրացնել
+zoom out
 
 փոփոխական
 variable
@@ -1383,6 +1804,9 @@ shell
 
 սալիկ
 tile
+
+նշագրում
+markup
 
 նշարկում
 markup
