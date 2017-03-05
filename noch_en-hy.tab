@@ -275,23 +275,23 @@ override				գերակայել
 output					արտածում
 package management		փաթեթների կառավարում
 package					փաթեթ
-раckage manager			փաթեթների կառավարիչ
+раckage manager	փաթեթների կառավարիչ
 pacman					համփիկ
 padding					միջանկեալ ազատ տարածութիւն, հեռաւորութիւնը սահմանագծից
-panel					վահանակ
-pane				փեղկ
+panel					  վահանակ
+pane				    փեղկ
 pan out					հետագնայ
 parser					վերլուծիչ
 partition				հատոր
 password				գաղտնագիր, ծածկագիր, գաղտնաբառ, պայմանաբառ, նշաբան
-paste					փակցնել
-path					ուղի
+paste					  փակցնել
+path					  ուղի
 pattern					նմուշ
-PCB						տպասալ
+PCB						  տպասալ
 periodic				պարբերական
-permission				թոյլտւութիւն, իրաւասութիւն, լիազօրութիւն
-pick					ընտրել
-pixel					փիքսել
+permission			թոյլտւութիւն, իրաւասութիւն, լիազօրութիւն
+pick					  ընտրել
+pixel					  փիքսել
 platform				հարթակ
 plotter					գծիչ
 plugin					հաւելում
@@ -303,38 +303,38 @@ polygon					բազմանկիւն
 рop-up					վերելուկ
 рrojector				արտապատկերիչ
 portable				տեղափոխելի
-port					կցատեղ, միացք, սարքամիացք
+port					  կցատեղ, միացք, սարքամիացք
 portrait				դիմանկարի ռեժիմ, երկայնակի
 powerups				ուժաճ
-preferences				նախընտրութիւններ
-preference				նախընտրանք
+preferences			նախընտրութիւններ
+preference			նախընտրանք
 preset					նախակայում
 Printed circuit board	տպասալ
 printer					տպիչ
 priority				առաջնահերթութիւն
-prism					հատուածակողմ
+prism					  հատուածակողմ
 privacy					գաղտնիութիւն
 privilege				լիազօրութիւն, արտօնութիւն
 process					գործընթաց, պրոցես
 processor				հոլովույթ, պրոցեսոր
 program					ծրագիր
-properties				յատկութիւններ, յատկանիշներ
+properties			յատկութիւններ, յատկանիշներ
 property				յատկութիւն, յատկանիշ
 protocol				հաղորդակարգ
 proximity sensor		հեռաչափ, մօտիկութեան սենսոր, մոտիկության սենսոր
-proximity			մօտիկութիւն
+proximity			  մօտիկութիւն
 public folder		հանրային պանակ
-puree					խիւս
-query					հարցում
-quick reader			արագընթերց
+puree					  խիւս
+query					  հարցում
+quick reader		արագընթերց
 radius					շառաւիղ
-range					միջակայք
+range					  միջակայք
 raw cut					կոշտ հատում
 reader					ընթերցիչ
 reboot					վերամեկնարկել, վերբեռնել
 rectangular				ուղղանկիւն
-redirection				վերաուղղորդում
-redo					վերարկել
+redirection			վերաուղղորդում
+redo					  վերարկել
 reference				առնչութիւն, վկայակոչում, մէջբերում, քաղուածք
 referrer				հղիչ
 register				գրանցուել
@@ -344,161 +344,162 @@ reload					վերբեռնել
 rename					վերանուանել, անուանափոխել
 render					նիւթաւորել
 replace					փոխարինել
-reply					պատասխան
+reply					  պատասխան
 report					զեկոյց
+repository      շտեմարան
 request					հարցում
-reservation				վերապահում
+reservation			վերապահում
 reserved				վերապահած
-resolution				որոշութիւն (պաստառի), չափերի համամասնութիւն, լուծաչափ, լուծականութիւն
+resolution			որոշութիւն (պաստառի), չափերի համամասնութիւն, լուծաչափ, լուծականութիւն
 response				պատասխան
 restart					վերամեկնարկել, վերագործարկել
 restore					վերականգնել
-retargetable			վերաթիրախաւորուող
+retargetable		վերաթիրախաւորուող
 RFID sensor			ռադիոյաճախութեան սենսոր, ռադիոյաճախութեան զգիչ
-right click				աջկտտացնել
+right click			աջկտտացնել
 root folder			արմատային պանակ
-rotate				պտտել
+rotate				  պտտել
 router					երթուղիչ
-run						գործարկել, աշխատեցնել
-sauce					թացան
+run						  գործարկել, աշխատեցնել
+sauce					  թացան
 save as					պահել իբրեւ… (որպէս)
-save					պահել, հիշել
-scale					սանդղակ, չափափոխել
+save					  պահել, հիշել
+scale					  սանդղակ, չափափոխել
 scanner					տեսածրիչ, ծրիչ, դիտակ, տեսածիր
 screenshot			էկրանահան
-script				սկրիպտ, գրուածք
+script				  սկրիպտ, գրուածք
 scroll					գլիկ
-scrollable				շարժական
-search engine			որոնիչ
+scrollable			շարժական
+search engine		որոնիչ
 season-ticket		բաժանորդագիր
 security				անվտանգութիւն
 select					նշել
-selfmotivated			ինքնամղուած
+selfmotivated		ինքնամղուած
 semantic				իմաստային, իմաստաբանական, սեմանտիկ
-send later				ուղարկել յետոյ, առաքել յետոյ
-send					ուղարկել, առաքում, առաքել
-sensor				զգիչ, զգայունակ, սենսոր
+send later			ուղարկել յետոյ, առաքել յետոյ
+send					  ուղարկել, առաքում, առաքել
+sensor				  զգիչ, զգայունակ, սենսոր
 server					սպասարկիչ, բաշխիչ
 session					նիստ, աշխատաշրջան
 settings				կարգաւորումներ
 setting					կարգաւորում, կայանք
-setup					լարք, կարգաւորում
-set						բազմութիւն, կազմ, կայել
-shell					կեղեւ, միջավայր
+setup					  լարք, կարգաւորում
+set						  բազմութիւն, կազմ, կայել
+shell					  կեղեւ, միջավայր
 shortcut				կարճատ, կանչագիր
 shut down				անջատել
 sidebar					կողասիւն
-site					կայք, հանգրուան, հանգոյց, տեղամաս
-skew					թեքում
+site					  կայք, հանգրուան, հանգոյց, տեղամաս
+skew					  թեքում
 smartphone			խելախօս
 snapshot				ճեպապատկեր
 software				ծրագրաշար, ծրագրային ապահովում, ծրագրակազմ, փափկամաս
-sound effect			ձայնային ազդանք
+sound effect		ձայնային ազդանք
 spacebar				բացատ
-space					բացատ
+space					  բացատ
 specific				բնորոշ, յատուկ
 specify					բնորոշել, նշել
-split					բաժանել
-spread sheet			աղիւսակաթերթ, ցուցակարգիչ
+split					  բաժանել
+spread sheet		աղիւսակաթերթ, ցուցակարգիչ
 spread					վերածածկ
 sprite					հարթուկ
-stamp					կնիք, կնքել, դրոշմ, դրոշմել
-standardization			հիմնօրինակում
-start					մեկնարկ
-status bar				վիճակագօտի
+stamp					  կնիք, կնքել, դրոշմ, դրոշմել
+standardization	հիմնօրինակում
+start					  մեկնարկ
+status bar			վիճակագօտի
 status					կարգավիճակ, վիճակ
-sticky keys				կպչուն ստեղներ
-stop					դադարեցնել, կանգնեցնել, արգելակել
-storytelling			պատմասութիւն
+sticky keys			կպչուն ստեղներ
+stop					  դադարեցնել, կանգնեցնել, արգելակել
+storytelling		պատմասութիւն
 stretch					ձգել
 string					տող
-style					ոճ
-stylesheet				ոճային սխեմա
+style					  ոճ
+stylesheet			ոճային սխեմա
 subject					նիւթ, առարկա, թեմա
 subscriber			բաժանորդ
 subscription		բաժանորդագիր
 support					աջակցութիւն, օժանդակում
-surveillance			վերահսկողութիւն
+surveillance		վերահսկողութիւն
 sustainable			կենսակայուն
 synopsis				համառոտագիր
 syntax					շարահիւսութիւն
-tab						ներդիր, սիւնատ, ցուցակաստեղ
-table					աղիւսակ
-tag						պիտակ, տրոհ, տեգ
-task					խնդիր
+tab						  ներդիր, սիւնատ, ցուցակաստեղ
+table					  աղիւսակ
+tag						  պիտակ, տրոհ, տեգ
+task					  խնդիր
 task pane				առաջադրանքների վահանակ
 technical support		տեխնիկական (թեքնիկական) աջակցութիւն
-technology				թեքնաբանութիւն, թեքնոլոգիա, տեխնոլոգիա
-telematics				հեռա(տեղեկա)գիտութիւն
+technology			թեքնաբանութիւն, թեքնոլոգիա, տեխնոլոգիա
+telematics			հեռա(տեղեկա)գիտութիւն
 telemetry				հեռուստաչափութիւն
 telephone subscriber	բաժանորդ
-television				պատկերասփիւռ, հեռուստատեսութիւն
+television			պատկերասփիւռ, հեռուստատեսութիւն
 template				շաբլոն, ձեւանմուշ, կաղապար
 tenant					սպասառու
 terminal				վերջակայան, եզրակայան, եզրույթ, վերջնասարք
-term					եզր
-text					գրուածք, տեքստ
+term					  եզր
+text					  գրուածք, տեքստ
 thumbnail				մանրապատկեր
-tile					սալիկ
+tile					  սալիկ
 timelapse				ժամահոսք
 timeline				ժամագիծ
 to click				կտացնել, սեղմել, չխկել, թխկել, կտիկ
 toggle					փոխարկել
-to install				տեղակայել
+to install			տեղակայել
 toolbar					գործիքագոտի
-tools					գործիքներ
-tool					գործիք
+tools					  գործիքներ
+tool					  գործիք
 touchface				հպերես
-touchscreen				հպէկրան
-touch					հպել
+touchscreen			հպէկրան
+touch					  հպել
 transfer				փոխանցել
 transform				փոխակերպել
-transparent				թափանցիկ
+transparent			թափանցիկ
 tweeps					թուիթերցիներ
 two-step verification	երկքայլ ստուգում
-typed					տիպաւորուած
+typed					  տիպաւորուած
 typeface				տառատեսակ
-type					տիպ
+type					  տիպ
 underline				ընգծում, ընդգծել
-undo					հետարկում, հետարկել
+undo					  հետարկում, հետարկել
 unknown					անյայտ
-uncompress					անխիտ
-unordered list			չդասաւորուած ցուցակ
+uncompress			անխիտ
+unordered list	չդասաւորուած ցուցակ
 upload					վերբեռնել
-user					օգտուող, օգտագործող, օգտատէր
-user space				կիրառութիւնների տիրոյթ, օգտագործողի տիրոյթ
+user					  օգտուող, օգտագործող, օգտատէր
+user space			կիրառութիւնների տիրոյթ, օգտագործողի տիրոյթ
 utility					օժանդակ ծրագիր
 valence					կարգաթիւ
-value					արժէք
+value					  արժէք
 variable				փոփոխական
-verification			ստուգում, վաւերացում
+verification		ստուգում, վաւերացում
 verify					ստուգել, վաւերացնել
-version				վարկած, տարբերակ
+version				  վարկած, տարբերակ
 vertical				ուղղահայաց
-video					տեսանիւթ
+video					  տեսանիւթ
 virtual					կարծական, վիրտուալ, վերիրական
-virus					մանրէ
+virus					  մանրէ
 visible					տեսանելի
 visions					տեսլակներ
 visual					տեսողական, դիտողական
-WAN						ընդլայնուած ցանց
+WAN						  ընդլայնուած ցանց
 webmaster				կայքավար, վիպասան
 webpage					կայքէջ, վիպէջ
-web server				ցանցաբաշխիչ, կայքաբաշխիչ
+web server			ցանցաբաշխիչ, կայքաբաշխիչ
 website					կայք, հանգրուան, հանգոյց, տեղամաս
-web						ցանց, վէպ, ոստայն, համավէպ
-width					լայնութիւն
+web						  ցանց, վէպ, ոստայն, համավէպ
+width					  լայնութիւն
 wipe cut				արտամղում
 wireless				անթել, անլար
-word processor			բառավարիչ, բառամշակիչ, տեքստի խմբագրիչ
+word processor	բառավարիչ, բառամշակիչ, տեքստի խմբագրիչ
 workflow				աշխատահոսք
 workshop				աշխատարան
-workstation				աշխատակայան
-World Wide Web			ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ), Համաշխարհային սարդոստայն 
-wrap					տողանցում
-WWW						ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ), Համաշխարհային սարդոստայն
-compressed file				խիտ նիշք, սեղմանիշք
-compress						խտացնել, սեղմել
+workstation			աշխատակայան
+World Wide Web	ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ), Համաշխարհային սարդոստայն 
+wrap					  տողանցում
+WWW						  ՀՀՀ (Համաշխարհային Համակարգչային Համավեպ), Համաշխարհային սարդոստայն
+compressed file	խիտ նիշք, սեղմանիշք
+compress				խտացնել, սեղմել
 zooming					խոշորացնել, դիտափոխում
 zoom in					խոշորացնել
 zoom out				փոքրացնել
