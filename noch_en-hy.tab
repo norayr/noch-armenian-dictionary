@@ -1,12 +1,13 @@
 aboriginal				      բնիկ, անդրենածին
 accelerator				      արագացուցիչ
-accessibility			      հասանելիութիւն
+accessibility			      մատչելիութիւն, հասանելիութիւն
 access					        հասանելիութիւն
+accessible              մատչելի
 account					        հաշիւ
 action					        գործողութիւն
 active directory		    գործուն գրացուցակներ
 active object			      գործուն օբյեկտ
-add-on					        հաւելում
+add-on					        յաւելում
 adjustment				      կարգաբերում
 administrator			      վարիչ
 alias					          այլանուն
@@ -20,7 +21,7 @@ authentication			    վաւերացում
 authorization			      նոյնականացում
 automatically save		  ինքնաշխատօրէն պահել
 automatically			      ինքնաշխատօրէն
-axiome				          հենասոյթ
+axiome				          յենասոյթ
 background				      հենք, ֆոն, ետնապատկեր, ետնանկար
 backup					        պահուստաւորում
 banner					        ցուցատախտակ, կայքավահանակ, ժապաւէն, ազդաժապաւէն, ծանուցում
@@ -59,7 +60,7 @@ column					        սիւն
 command					        հրահանգ
 communication			      հաղորդակցութիւն
 compatibility			      համատեղելիութիւն
-compiler				        կոմպիլյատոր
+compiler				        կոմպիլատոր
 component				        բաղադրիչ
 composition             յօրինուածք
 compulsive				      սեւեռուն
@@ -69,7 +70,7 @@ conditional				      պայմանական
 condition				        պայման
 configuration			      կոնֆիգուրացիա, կազմաձեւ
 connect					        կապուել, կպնել, միանալ
-container				        կոնտեյներ
+container				        կոնտէյներ
 constant				        հաստատուն
 content					        բովանդակութիւն
 converter				        փոխարկիչ
@@ -127,7 +128,7 @@ environment			        միջավայր
 escape					        լքել, լքում
 event					          իրադարձութիւն
 export					        արտածել, արտահանել
-extension				        հաւելում
+extension				        յաւելում
 extranet				        արտացանց
 failure					        ձախողում
 favorite				        նախընտրած
@@ -135,7 +136,7 @@ feed					          հոսք
 file				            նիշք
 file system			        նիշքային համակարգ
 filter				          զտել, ֆիլտրել
-find				            փնտրել, որոնել
+find				            գտնել
 finder				          որոնիչ
 flash drive			        կրիչ, յիշասարք
 flip book				        սահատետր
@@ -372,6 +373,7 @@ screenshot			էկրանահան
 script				  սկրիպտ, գրուածք
 scroll					գլիկ
 scrollable			շարժական
+search          որոնել
 search engine		որոնիչ
 season-ticket		բաժանորդագիր
 security				անվտանգութիւն

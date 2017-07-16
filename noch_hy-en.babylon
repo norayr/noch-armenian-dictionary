@@ -16,6 +16,9 @@ tweeps
 հատուածակողմ|հատվածակողմ
 prism
 
+յաւելում
+add-on, extension
+
 խողովակաշար
 pipeline
 
@@ -133,7 +136,7 @@ data storag, for example flash drive
 յիշասարք|հիշասարք
 data storage, for example flash drive
 
-հենասոյթ|հենասույթ
+յենասոյթ|հենասույթ
 axiome
 
 կենսակայուն
@@ -246,6 +249,12 @@ account
 
 հասանելիութիւն|հասանելիություն
 access, accessibility
+
+մատչելիութիւն|մատչելիություն
+access, accessibility
+
+մատչելի
+accessible
 
 բաց հասանելիութեան շարժում|բաց հասանելիության շարժում
 open access movement
@@ -416,7 +425,16 @@ newsgroup
 newsgroup
 
 որոնիչ
-search engine
+search engine, finder
+
+գտնել
+find
+
+փնտրել
+seorch
+
+որոնել
+search
 
 ընթերցիչ
 e-ink reader
@@ -622,7 +640,7 @@ cloud computing
 սիւն|սյուն
 column
 
-կոնտեյներ
+կոնտէյներ
 container
 
 կոնֆիգուրացիա
@@ -1894,7 +1912,7 @@ condition
 պայմանական
 conditional
 
-կոմպիլյատոր
+կոմպիլատոր
 compiler
 
 ինտերպրետատոր
