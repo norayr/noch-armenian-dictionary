@@ -83,6 +83,7 @@ credentials				      հաւատարմագրեր
 credential				      հաւատարմագիր
 current					        ընթացիկ
 cursor					        նշիչ, նշորդ
+custom                  յատուկ
 cut						          կտրել, հատել
 data					          տուեալ, տուեալներ
 database				        տուեալների շտեմարան, տուեալների հենք
@@ -465,6 +466,7 @@ typed					  տիպաւորուած
 typeface				տառատեսակ
 type					  տիպ
 underline				ընգծում, ընդգծել
+underscore      ընդգծիկ
 undo					  ետարկում, ետարկել
 unknown					անյայտ
 uncompress			անխիտ
