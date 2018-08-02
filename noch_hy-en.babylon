@@ -1918,8 +1918,11 @@ condition
 պայմանական
 conditional
 
-կոմպիլատոր
+կազմարկիչ|կոմպիլատոր
 compiler
+
+կազմարկել
+compile
 
 ինտերպրետատոր
 interpreter
