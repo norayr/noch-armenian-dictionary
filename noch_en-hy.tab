@@ -121,6 +121,7 @@ editor					        խմբագրիչ
 element					        էլեմենտ, տարր
 embed					          ներդնել
 emulation				        նմանակում
+encapsulation					թաղանթապատում
 encoding				        կոդաւորում
 endnote					        ծանօթագրութիւն
 energy					        էներգիա, եռանդուժ
@@ -339,6 +340,7 @@ raw cut					կոշտ հատում
 reader					ընթերցիչ
 reboot					վերամեկնարկել, վերբեռնել
 rectangular				ուղղանկիւն
+recursive				կարգընթաց
 redirection			վերաուղղորդում
 redo					  վերարկել
 reference				առնչութիւն, վկայակոչում, մէջբերում, քաղուածք
